@@ -8,3 +8,10 @@ body {
     background-color: cornflowerblue;
     text-align: center;
 }
+
+form {
+    text-align: center;
+    background-color: darkblue;
+    color: cyan;
+
+}
